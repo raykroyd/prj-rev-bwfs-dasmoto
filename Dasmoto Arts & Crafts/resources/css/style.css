@@ -1,0 +1,38 @@
+body {
+  font-family: Helvetica;
+}
+
+#pagehead {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  color: khaki;
+  background-image: url("../images/pattern.jpeg");
+}
+
+.sectionhead {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+  }
+
+
+#bgbrushes {
+  background-color: mediumspringgreen;
+}
+
+#bgframes {
+  background-color: lightcoral;
+}
+
+#bgpaint {
+  background-color: skyblue;
+}
+
+#itemprice{
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
